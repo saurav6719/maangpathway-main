@@ -3,7 +3,7 @@
 ## Overview📝🔍
 
 Welcome to Maang Pathways!👋🏼 Whether you're an aspiring computer science student or someone who has navigated branch sliding, we've got you covered. Our platform provides roadmaps and resources to help you excel in competitive programming, prepare for job interviews, and ace online assessments (OAs). Let's explore what Maang Pathways has to offer:
-![image](https://github.com/aindrelasaha/maangpathway/assets/126545390/6695c4de-a453-4b90-a93c-ae99df89a5cc)
+
 
 
 ---
